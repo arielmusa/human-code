@@ -10,13 +10,14 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 ## Soluzione
 
+- Guardo lista desideri
+- FINCHÈ non ho comprato il regalo, cerco un regalo:
+
+  - SE NON (sfora il budget OR non arriva in tempo)
+    compro il regalo
+
 - Guardo lista desideri di Silvia
 - cerco un regalo su Amazon
   visualizzo scheda prodotto - SE rientra nel budget AND arriva in tempo
   compro il regalo - ALTRIMENTI
   continuo a cercare un regalo in lista desideri
-
-- Guardo lista desideri
-- FINCHÈ non ho comprato il regalo, cerco un regalo:
-  - SE NON (sfora il budget OR non arriva in tempo)
-    compro il regalo
