@@ -13,7 +13,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 - Guardo lista desideri
 - FINCHÈ non ho comprato il regalo, cerco un regalo:
 
-  - SE NON (sfora il budget OR non arriva in tempo)
+  - SE rientra nel budget AND arriva in tempo
     compro il regalo
 
 - Guardo lista desideri di Silvia
